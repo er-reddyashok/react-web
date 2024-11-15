@@ -18,7 +18,7 @@ front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 
 - Home (List products)
 - Detail products
-- Product category
+- Product categorys
 - Recommended products
 - Cart
 - Login / Register
@@ -31,3 +31,4 @@ front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 <img src="screen/screen4.png">
 <img src="screen/screen5.png">
 <img src="screen/screen6.png">
+
